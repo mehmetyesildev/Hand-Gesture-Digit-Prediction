@@ -27,7 +27,9 @@ This project is a real-time hand gesture recognition system developed using Pyth
    ```bash
    pip install tensorflow opencv-python numpy
 2. Train the model (Optional - requires dataset):
+   ```bash
    python train_model.py
 3. Run the prediction system:
+   ```bash
    python predict.py
    
